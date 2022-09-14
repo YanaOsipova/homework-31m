@@ -1,0 +1,276 @@
+2022-09-10 16:48:59,546 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 16:49:02,193 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 16:49:02,193 INFO p.LoginPage [Test worker] Авторизация на сайте
+2022-09-10 16:49:23,548 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 16:49:23,551 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 16:49:23,749 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 16:49:24,640 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 16:49:24,641 INFO p.LoginPage [Test worker] Авторизация на сайте
+2022-09-10 16:49:39,395 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 16:49:39,396 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 17:58:19,389 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 17:58:21,993 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 17:58:26,826 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 17:58:26,830 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:05:46,852 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:05:48,797 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:05:48,798 INFO p.LoginPage [Test worker] Login in lk
+2022-09-10 18:05:53,122 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 18:05:53,125 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:11:32,742 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:11:34,503 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:11:34,504 INFO p.LoginPage [Test worker] Login in lk
+2022-09-10 18:11:46,497 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 18:11:46,499 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:20:37,959 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:20:39,834 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:20:39,834 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:20:43,795 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:20:54,295 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:23:30,578 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:23:32,433 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:23:32,434 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:23:36,256 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:23:45,303 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:23:47,204 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:25:43,066 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:25:45,356 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:25:45,357 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:25:49,245 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:26:02,779 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:26:04,606 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:26:04,606 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:26:08,075 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:26:16,156 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:32:24,102 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:32:26,197 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:32:26,197 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:32:30,156 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:32:39,168 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:33:51,738 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:33:53,646 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:33:53,646 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:33:59,188 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:34:06,280 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:34:12,192 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 18:38:35,501 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:38:37,427 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:38:37,427 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:38:41,432 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:38:49,632 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:38:54,537 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 18:38:54,540 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:38:54,733 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:38:55,525 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 18:38:55,526 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:39:02,348 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:39:57,334 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:39:59,208 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:39:59,208 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:40:02,783 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:40:10,065 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:40:14,997 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 18:40:14,999 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:40:15,196 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:40:15,916 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 18:40:15,916 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:40:19,410 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:40:26,569 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:50:46,656 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:50:48,477 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:50:48,477 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:50:53,016 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:51:01,417 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:51:06,668 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 18:51:06,670 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:51:06,842 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:51:07,505 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 18:51:07,505 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:51:10,840 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:51:19,588 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:54:41,639 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:54:43,462 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:54:43,462 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:54:46,894 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:54:55,301 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:55:00,442 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 18:55:00,444 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:55:00,642 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:55:01,415 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 18:55:01,415 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:55:05,692 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:55:14,133 INFO p.LoginPage [Test worker] Конец теста 2
+2022-09-10 18:55:14,133 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 18:55:14,134 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:59:03,591 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:59:06,268 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 18:59:06,269 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:59:09,549 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:59:17,018 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 18:59:22,282 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 18:59:22,284 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 18:59:22,440 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 18:59:23,224 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 18:59:23,224 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 18:59:27,275 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 18:59:35,846 INFO p.LoginPage [Test worker] Конец теста 2
+2022-09-10 18:59:35,846 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 18:59:35,847 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:16:44,433 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:16:46,298 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:16:46,298 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:16:49,611 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:16:57,760 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:17:00,248 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:17:00,451 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:17:01,301 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:17:01,301 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:17:06,240 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:17:14,042 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:20:31,448 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:20:33,281 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:20:33,282 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:20:37,129 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:20:45,149 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:20:49,999 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 19:20:50,001 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:21:02,234 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:21:04,088 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:21:04,088 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:21:07,706 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:21:15,308 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:24:34,555 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:24:36,444 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:24:36,444 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:24:40,623 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:24:48,874 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:24:54,197 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 19:24:54,199 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:24:54,387 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:24:55,171 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:24:55,172 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:24:59,240 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:25:06,849 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:26:10,865 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:26:12,775 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:26:12,775 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:26:16,361 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:26:26,330 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:26:30,709 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:26:30,906 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:26:31,780 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:26:31,780 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:26:34,971 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:26:43,719 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:27:53,119 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:27:54,972 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:27:54,973 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:27:58,737 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:28:06,850 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:28:12,032 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 19:28:12,035 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:28:12,215 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:28:12,929 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:28:12,929 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:28:16,242 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:28:24,657 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:30:32,630 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:30:34,425 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:30:34,425 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:30:38,511 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:30:45,669 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:30:48,129 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:30:48,326 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:30:49,058 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:30:49,058 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:30:52,317 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:31:01,492 INFO p.LoginPage [Test worker] Конец теста 2
+2022-09-10 19:31:01,493 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 19:31:01,493 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:31:23,867 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:31:25,894 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:31:25,894 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:31:29,977 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:31:38,443 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:31:40,883 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:31:41,060 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:31:41,723 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:31:41,723 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:31:46,888 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:31:56,370 INFO p.LoginPage [Test worker] Конец теста 2
+2022-09-10 19:31:56,371 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 19:31:56,371 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:38:20,193 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:38:21,977 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:38:21,977 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:38:25,481 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:38:33,788 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:38:39,568 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 19:38:39,572 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:38:39,771 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:38:40,479 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:38:40,479 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:38:44,173 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:38:53,244 INFO p.LoginPage [Test worker] Конец теста 2
+2022-09-10 19:38:53,244 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 19:38:53,245 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:40:05,131 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:40:06,928 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:40:06,928 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:40:10,329 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:40:17,840 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:40:22,694 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 19:40:22,697 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:40:22,873 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:40:23,675 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:40:23,675 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:40:26,946 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:40:36,133 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:41:39,273 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:41:41,903 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:41:41,904 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:41:45,412 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:41:53,793 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:41:58,894 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 19:41:58,896 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:41:59,064 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:41:59,827 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:41:59,827 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:42:03,985 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:42:13,177 INFO p.LoginPage [Test worker] Конец теста 2
+2022-09-10 19:42:13,177 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 19:42:13,177 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:45:17,567 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:45:19,512 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:45:19,512 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:45:25,602 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:45:33,614 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:45:39,370 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 19:45:39,373 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:45:39,561 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:45:40,423 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:45:40,423 INFO p.LoginPage [Test worker] Вход в личный кабинет
+2022-09-10 19:45:43,818 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:45:52,728 INFO p.LoginPage [Test worker] Конец теста 2
+2022-09-10 19:45:52,728 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 19:45:52,729 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:50:58,632 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:51:05,438 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:51:05,439 INFO p.LoginPage [Test worker] Login in lk
+2022-09-10 19:51:35,348 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:51:40,487 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:51:40,487 INFO p.LoginPage [Test worker] Login in lk
+2022-09-10 19:53:17,808 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:53:30,355 INFO Homework31Test [Test worker] Начало теста 1
+2022-09-10 19:53:30,355 INFO p.LoginPage [Test worker] Login in lk
+2022-09-10 19:53:34,750 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:53:42,090 INFO p.LoginPage [Test worker] Заполнение данных о себе
+2022-09-10 19:53:48,427 INFO Homework31Test [Test worker] Конец теста 1
+2022-09-10 19:53:48,429 INFO Homework31Test [Test worker] Закрытие драйвера
+2022-09-10 19:53:48,668 INFO Homework31Test [Test worker] Создание драйвера
+2022-09-10 19:53:49,553 INFO Homework31Test [Test worker] Начало теста 2
+2022-09-10 19:53:49,553 INFO p.LoginPage [Test worker] Login in lk
+2022-09-10 19:53:55,094 INFO p.LoginPage [Test worker] Вход на страничку о себе
+2022-09-10 19:54:04,141 INFO p.LoginPage [Test worker] Конец теста 2
+2022-09-10 19:54:04,142 INFO Homework31Test [Test worker] Конец теста 2
+2022-09-10 19:54:04,142 INFO Homework31Test [Test worker] Закрытие драйвера
